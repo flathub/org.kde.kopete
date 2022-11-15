@@ -21,8 +21,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/frameworks/5.99/portingAids/kdelibs4support-5.99.0.tar.xz",
-                    "sha256": "0535c7ca1184e7d75e28c630911b640e533782120691510217b293a8143e8d1c",
+                    "url": "https://download.kde.org/stable/frameworks/5.100/portingAids/kdelibs4support-5.100.0.tar.xz",
+                    "sha256": "82a902bc9e817f28f31b1610664b59401c4d556342bcd2de4a473df2bee373b2",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8762,
@@ -38,8 +38,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/frameworks/5.99/portingAids/kjs-5.99.0.tar.xz",
-                    "sha256": "40f11254a4c67d679fbda594bf0c5029bf88d555bdb7d31bf4807a28df085e4b",
+                    "url": "https://download.kde.org/stable/frameworks/5.100/portingAids/kjs-5.100.0.tar.xz",
+                    "sha256": "61729dbb28913bbf46627d4a1f75e553f6666b4fb896a97623e78417f01ac2ae",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8762,
