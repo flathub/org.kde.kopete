@@ -96,8 +96,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.04.0/src/kidentitymanagement-23.04.0.tar.xz",
-                    "sha256": "59a86d0fd424dead29f9c3a82c500830c7efa4a4e499e1a31e21e27480fbf098",
+                    "url": "https://download.kde.org/stable/release-service/23.04.1/src/kidentitymanagement-23.04.1.tar.xz",
+                    "sha256": "e4e6a8076e63564b768dac1684a021afdac6f044008ae40b83101ab14c18e23a",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -147,8 +147,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.04.0/src/libkleo-23.04.0.tar.xz",
-                    "sha256": "ae210e3849395044be778cc7b92746e209be91722928c991a3324932adda6e69",
+                    "url": "https://download.kde.org/stable/release-service/23.04.1/src/libkleo-23.04.1.tar.xz",
+                    "sha256": "b51f395cf239020e117382477b5ef1a994f81e2c49978238d26bf685696d8499",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
