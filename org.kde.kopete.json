@@ -76,8 +76,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.04.2/src/kpimtextedit-23.04.2.tar.xz",
-                    "sha256": "3f843ce22bfe75c5841b40c1ee454efd8733c16fbc27d44f841242ee33b72e4b",
+                    "url": "https://download.kde.org/stable/release-service/23.04.3/src/kpimtextedit-23.04.3.tar.xz",
+                    "sha256": "ab2049ddecb1440acfe1d08878a9f430f9f6f45b4bfb16b3561b23ca570a3ae7",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -96,8 +96,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.04.2/src/kidentitymanagement-23.04.2.tar.xz",
-                    "sha256": "526b286c976d1d9296cfe42d26c0619a03bf179288b1e5d1fd769d4ffce630d7",
+                    "url": "https://download.kde.org/stable/release-service/23.04.3/src/kidentitymanagement-23.04.3.tar.xz",
+                    "sha256": "77fcbd30a34ba79d0671e10b6993af93e5f18aeadac73414b53ef2323af86e0d",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -147,8 +147,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.04.2/src/libkleo-23.04.2.tar.xz",
-                    "sha256": "1b478d60775c2ec87372d2b8d012eb343d16b01dff3bd2a10cf6baf74f44a4c5",
+                    "url": "https://download.kde.org/stable/release-service/23.04.3/src/libkleo-23.04.3.tar.xz",
+                    "sha256": "4538152adbfa4f696dd72a76affc71f18014e56f3319b83f6530ed451bb1e750",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -251,8 +251,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.04.2/src/kopete-23.04.2.tar.xz",
-                    "sha256": "0e7d523cf52721a21d11f1862e0296a5ca8df371d3d3487c0d4424215f97ad66",
+                    "url": "https://download.kde.org/stable/release-service/23.04.3/src/kopete-23.04.3.tar.xz",
+                    "sha256": "f189a472ba49735de2f00e21a904c8e8b4c07f056e08b9f817be850b087946df",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
