@@ -76,8 +76,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.04.3/src/kpimtextedit-23.04.3.tar.xz",
-                    "sha256": "ab2049ddecb1440acfe1d08878a9f430f9f6f45b4bfb16b3561b23ca570a3ae7",
+                    "url": "https://download.kde.org/stable/release-service/23.08.0/src/kpimtextedit-23.08.0.tar.xz",
+                    "sha256": "63367a4a173536a91b7186813aea5b6b42bf88724483e983a5b6c60e9a48b897",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -96,8 +96,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.04.3/src/kidentitymanagement-23.04.3.tar.xz",
-                    "sha256": "77fcbd30a34ba79d0671e10b6993af93e5f18aeadac73414b53ef2323af86e0d",
+                    "url": "https://download.kde.org/stable/release-service/23.08.0/src/kidentitymanagement-23.08.0.tar.xz",
+                    "sha256": "26e22b9cc1a3c68e1b057dca885912debc9083dc629169451d47f128985d1682",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -257,8 +257,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.04.3/src/kopete-23.04.3.tar.xz",
-                    "sha256": "f189a472ba49735de2f00e21a904c8e8b4c07f056e08b9f817be850b087946df",
+                    "url": "https://download.kde.org/stable/release-service/23.08.0/src/kopete-23.08.0.tar.xz",
+                    "sha256": "09399e7645ffbc4b7fa25f96af1d9870eb9d16dab21ece64e4d61fbc467e5e8f",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
