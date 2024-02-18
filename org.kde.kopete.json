@@ -21,8 +21,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/frameworks/5.114/portingAids/kdelibs4support-5.114.0.tar.xz",
-                    "sha256": "ac064213c4982881d47469793795e62520a67056b121e40a674e3a51231c879c",
+                    "url": "https://download.kde.org/stable/frameworks/5.115/portingAids/kdelibs4support-5.115.0.tar.xz",
+                    "sha256": "72a2fa16c9044fffa7548f349e5e19f16996787673e6bd978fdca260e5512f14",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8762,
@@ -92,8 +92,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.4/src/kpimtextedit-23.08.4.tar.xz",
-                    "sha256": "da55922ce882c2fed5efca00177fddd6fe503547b8942b22181961e871710de5",
+                    "url": "https://download.kde.org/stable/release-service/23.08.5/src/kpimtextedit-23.08.5.tar.xz",
+                    "sha256": "4edc962b0c8202c192b3c9c6faaba0996e88df99609500abb54f55b768e727c7",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -112,8 +112,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.4/src/kidentitymanagement-23.08.4.tar.xz",
-                    "sha256": "92736693685342c724034dd5675df858678f73fc1ed04189a7841e9b2237e89b",
+                    "url": "https://download.kde.org/stable/release-service/23.08.5/src/kidentitymanagement-23.08.5.tar.xz",
+                    "sha256": "bcd7f7ef26a24b2d198a7739bdc8b4f3868d42e05355173fbc91a95220d77201",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -170,8 +170,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.4/src/libkleo-23.08.4.tar.xz",
-                    "sha256": "f1abf5b8a66ecbba7376507c07d61fea6fe222f57bc90274fb6d381ddabb5a07",
+                    "url": "https://download.kde.org/stable/release-service/23.08.5/src/libkleo-23.08.5.tar.xz",
+                    "sha256": "4330d3e4b70cf5f8d7b341b665a63b47f02e12270946ce6991971315298c4625",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -274,8 +274,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.4/src/kopete-23.08.4.tar.xz",
-                    "sha256": "1deeb3eff4e8dd874c9ac91dab78f0fdc785ae50a69ea4a28ae6d615f347e552",
+                    "url": "https://download.kde.org/stable/release-service/23.08.5/src/kopete-23.08.5.tar.xz",
+                    "sha256": "0af87805f0c256ec3e5615e3ec70720ee09d0dbdc0a36b53813f3078a91b8e31",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
