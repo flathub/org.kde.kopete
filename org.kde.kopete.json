@@ -92,8 +92,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.5/src/kpimtextedit-23.08.5.tar.xz",
-                    "sha256": "4edc962b0c8202c192b3c9c6faaba0996e88df99609500abb54f55b768e727c7",
+                    "url": "https://download.kde.org/stable/release-service/24.02.0/src/kpimtextedit-24.02.0.tar.xz",
+                    "sha256": "f13dce37693cc4c95a005a7ace89e201ea100ff95e2e5b215c554c2a78f05f33",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -112,8 +112,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.5/src/kidentitymanagement-23.08.5.tar.xz",
-                    "sha256": "bcd7f7ef26a24b2d198a7739bdc8b4f3868d42e05355173fbc91a95220d77201",
+                    "url": "https://download.kde.org/stable/release-service/24.02.0/src/kidentitymanagement-24.02.0.tar.xz",
+                    "sha256": "fdd4c5928f14122c33b4f97cf7587a07689e6d168b3a56a31b7fa60d7149048c",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -170,8 +170,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.5/src/libkleo-23.08.5.tar.xz",
-                    "sha256": "4330d3e4b70cf5f8d7b341b665a63b47f02e12270946ce6991971315298c4625",
+                    "url": "https://download.kde.org/stable/release-service/24.02.0/src/libkleo-24.02.0.tar.xz",
+                    "sha256": "ade428daca544798314a3a5b577efe8417c6d2182f74e427f3d7c79c3ca1b96c",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
