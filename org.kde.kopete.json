@@ -98,7 +98,10 @@
                         "type": "anitya",
                         "project-id": 8763,
                         "stable-only": true,
-                        "url-template": "https://download.kde.org/stable/release-service/$version/src/kpimtextedit-$version.tar.xz"
+                        "url-template": "https://download.kde.org/stable/release-service/$version/src/kpimtextedit-$version.tar.xz",
+                        "versions": {
+                            "<": "24.02.0"
+                        }
                     }
                 }
             ]
@@ -118,7 +121,10 @@
                         "type": "anitya",
                         "project-id": 8763,
                         "stable-only": true,
-                        "url-template": "https://download.kde.org/stable/release-service/$version/src/kidentitymanagement-$version.tar.xz"
+                        "url-template": "https://download.kde.org/stable/release-service/$version/src/kidentitymanagement-$version.tar.xz",
+                        "versions": {
+                            "<": "24.02.0"
+                        }
                     }
                 }
             ]
@@ -176,7 +182,10 @@
                         "type": "anitya",
                         "project-id": 8763,
                         "stable-only": true,
-                        "url-template": "https://download.kde.org/stable/release-service/$version/src/libkleo-$version.tar.xz"
+                        "url-template": "https://download.kde.org/stable/release-service/$version/src/libkleo-$version.tar.xz",
+                        "versions": {
+                            "<": "24.02.0"
+                        }
                     }
                 }
             ]
